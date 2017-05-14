@@ -1,0 +1,11 @@
+SimpleLED	KEYWORD1
+
+getState	KEYWORD2
+getValue	KEYWORD2
+on	KEYWORD2
+onValue	KEYWORD2
+onPercent	KEYWORD2
+off	KEYWORD2
+setPercent	KEYWORD2
+setValue	KEYWORD2
+toggle	KEYWORD2
