@@ -8,7 +8,7 @@ By Julien de la Bruère-Terreault (drgfreeman@tuta.io)
 
 ## Summary
 
-This library for the Arduino IDE provides different methods for easy control of LED.
+This library for the Arduino IDE provides different methods for easy control of LEDs.
 
 ## Examples
 Three example sketches are provided with the library:
