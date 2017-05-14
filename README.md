@@ -35,11 +35,11 @@ Returns the brightness value of the LED (0-255). Note that the brightness value 
 * `void on()`  
 Turns the LED on to full brightness or to the brightness value previously set by the `.setValue()`, `.setPercent()` or `.onValue()` methods.
 
-* `void onValue(uint8_t value)`  
-Turns the LED on to the brightness value defined by the `value` argument (0-255).
-
 * `void onPercent(uint8_t percent)`  
 Turns the LED on to the brightness value defined by the `percent` argument (0-100).
+
+* `void onValue(uint8_t value)`  
+Turns the LED on to the brightness value defined by the `value` argument (0-255).
 
 * `void off()`  
 Turns the LED off.
